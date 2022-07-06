@@ -1,0 +1,13 @@
+name: TheOscars
+title: TheOscars
+username:
+account: arisha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6602423
+bundleId: 6075654
+url: https://arisha.shinyapps.io/TheOscars/
+when: 1657131010.30085
+lastSyncTime: 1657131010.30086
+asMultiple: FALSE
+asStatic: FALSE
