@@ -1,6 +1,17 @@
-# Final Project #
+# The Oscars #
 
 https://arisha.shinyapps.io/TheOscars/
+
+#### Overview  ####
+
+Analyzed racial and gender diversity in the history of entertainment industry’s competitive awards (with the main focus on
+the Oscars and some analysis on the BAFTAs and the Golden Globes) in R by using ShinyR and tidyverse for general tidying
+and Random Forest Classifier method for predicting if a certain user can win the Oscar. The project used four datasets
+(Oscar, IMDB ratings, IMDB top 1000 movies, and top 100 greatest actors of all time) from Kaggle.
+
+Key results indicated that across all Oscar nominations and wins for various genres and Oscar award types, non-white and
+non-male individuals have been marginally underrepresented, however, there seems to be a slight increase in racial inclusivity
+and a greater increase in gender inclusivity in recent years.
 
 #### Datasets  ####
 
